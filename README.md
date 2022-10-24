@@ -6,29 +6,26 @@
   <img alt="Java" src="https://img.shields.io/badge/C__mboy-success?style=flat-square&logo=wechat&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=felixncheng&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi, I’m @felixncheng 
+  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=felixncheng&show_icons=true&theme=highcontrast" />
 
-<div id="stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=felixncheng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</div>
-
-### 关于我
+### :man_technologist: 关于我
+我是一名来自:airplane:深圳的后台开发
 
 - 👀 聚焦于通用制品库研发
 - :orange_book: 对存储和网络感兴趣
 - 🌱 最近在学习Linux Kernel & FileSystem
 - 💞️ [BlueKing REPO](https://github.com/TencentBlueKing/bk-repo) 核心成员
-- :office: 来自深圳
  
 ---
 
-### 最近文章：
-* [Linux系统中的文件访问时间是怎么控制的?](https://mp.weixin.qq.com/s/gmgeOmIgsis0-r9uFH9uxA) - 2022-09-01
-* [制品库是什么？](https://mp.weixin.qq.com/s/kvfmM_Lr1d_x24sDfWQKng) - 2022-08-07
+### :writing_hand: 最近文章：
+* :fire: [Linux系统中的文件访问时间是怎么控制的?](https://mp.weixin.qq.com/s/gmgeOmIgsis0-r9uFH9uxA) - 2022-09-01
+* :fire: [制品库是什么？](https://mp.weixin.qq.com/s/kvfmM_Lr1d_x24sDfWQKng) - 2022-08-07
 * [把成员变量转换成局部变量会更快吗？](https://mp.weixin.qq.com/s/oyKMM6e_2lKh-lcVRUF_fw) - 2021-01-08
 * [HotSpot在x86_64架构下解释器执行原理](https://mp.weixin.qq.com/s/PjS8EFJ44iugoLFEmLiEFQ) - 2020-10-30
 * [HotSpot执行java代码原理](https://mp.weixin.qq.com/s/CTWblaQHa9IlgA-bbDAj7w) - 2020-10-23
@@ -49,4 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixncheng&layout=compact&hide=javascript,html&exclude_repo=felixncheng.github.io)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
