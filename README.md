@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges"  align="center">
-  <img alt="Java" src="https://img.shields.io/badge/C__mboy-blue?style=flat-square&logo=wechat&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/C__mboy-success?style=flat-square&logo=wechat&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=felixncheng&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi, I’m @felixncheng 
@@ -18,9 +18,11 @@
 
 ### 关于我
 
-- 👀 聚焦于制品库领域开发
+- 👀 聚焦于通用制品库研发
+- :orange_book: 对存储和网络感兴趣
 - 🌱 最近在学习Linux Kernel & FileSystem
-- 💞️ 主要项目: [蓝盾制品库](https://github.com/TencentBlueKing/bk-repo)
+- 💞️ [BlueKing REPO](https://github.com/TencentBlueKing/bk-repo) 核心成员
+- :office: 来自深圳
  
 ---
 
@@ -30,8 +32,9 @@
 * [把成员变量转换成局部变量会更快吗？](https://mp.weixin.qq.com/s/oyKMM6e_2lKh-lcVRUF_fw) - 2021-01-08
 * [HotSpot在x86_64架构下解释器执行原理](https://mp.weixin.qq.com/s/PjS8EFJ44iugoLFEmLiEFQ) - 2020-10-30
 * [HotSpot执行java代码原理](https://mp.weixin.qq.com/s/CTWblaQHa9IlgA-bbDAj7w) - 2020-10-23
+* ...
 
-更多文章在微信公众号-微服务实验室
+更多文章在<img alt="公众号" src="https://img.shields.io/badge/微信公众号-微服务实验室-success?style=flat-square&logo=wechat&logoColor=white" />
 
 ---
 
