@@ -20,6 +20,7 @@
 - :orange_book: 对存储和网络感兴趣
 - 🌱 最近在学习Linux Kernel & FileSystem
 - 💞️ [BlueKing REPO](https://github.com/TencentBlueKing/bk-repo) 核心成员
+- :running: 喜欢打:basketball:篮球
  
 ---
 
