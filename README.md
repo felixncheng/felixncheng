@@ -48,6 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 </div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixncheng&layout=compact&hide=javascript,html&exclude_repo=felixncheng.github.io&theme=noctis_minimus" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixncheng&layout=compact&hide=javascript,html,tsql,plpgsql&exclude_repo=felixncheng.github.io&theme=noctis_minimus" />
 
 
