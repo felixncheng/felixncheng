@@ -6,7 +6,7 @@
   <img alt="Java" src="https://img.shields.io/badge/C__mboy-success?style=flat-square&logo=wechat&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=felixncheng&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  大家好
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -14,7 +14,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=felixncheng&show_icons=true&theme=noctis_minimus" />
 
 ### :man_technologist: 关于我
-我是一名来自:airplane:深圳的后台开发
+我叫felixncheng，在深圳工作。
 
 - 👀 聚焦于通用制品库研发
 - :orange_book: 对存储和网络感兴趣
