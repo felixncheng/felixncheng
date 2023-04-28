@@ -6,7 +6,7 @@
   <img alt="Java" src="https://img.shields.io/badge/C__mboy-success?style=flat-square&logo=wechat&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=felixncheng&style=flat-square&color=blue" alt=""/>
   <h1>
-  大家好
+  你好
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
