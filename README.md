@@ -14,7 +14,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=felixncheng&show_icons=true&theme=noctis_minimus" />
 
 ### :man_technologist: 关于我
-我叫felixncheng，在深圳工作。
+我叫felixncheng，目前在深圳工作。
 
 - 👀 聚焦于通用制品库研发
 - :orange_book: 对存储和网络感兴趣
@@ -25,11 +25,11 @@
 ---
 
 ### :writing_hand: 最近文章：
-* :fire: [Linux系统中的文件访问时间是怎么控制的?](https://mp.weixin.qq.com/s/gmgeOmIgsis0-r9uFH9uxA) - 2022-09-01
-* :fire: [制品库是什么？](https://mp.weixin.qq.com/s/kvfmM_Lr1d_x24sDfWQKng) - 2022-08-07
+* 🔥 [如何将一亿个文件按内容分组](https://mp.weixin.qq.com/s/EUUWhsX-GAWrzQPmxa7Onw) - 2024-04-03
+* 🔥 [Reactor在蓝鲸制品库GC中的应用](https://mp.weixin.qq.com/s/19jVSKArU9Dkh14GnKXrAQ) - 2024-03-27
+* [Linux系统中的文件访问时间是怎么控制的?](https://mp.weixin.qq.com/s/gmgeOmIgsis0-r9uFH9uxA) - 2022-09-01
+* [制品库是什么？](https://mp.weixin.qq.com/s/kvfmM_Lr1d_x24sDfWQKng) - 2022-08-07
 * [把成员变量转换成局部变量会更快吗？](https://mp.weixin.qq.com/s/oyKMM6e_2lKh-lcVRUF_fw) - 2021-01-08
-* [HotSpot在x86_64架构下解释器执行原理](https://mp.weixin.qq.com/s/PjS8EFJ44iugoLFEmLiEFQ) - 2020-10-30
-* [HotSpot执行java代码原理](https://mp.weixin.qq.com/s/CTWblaQHa9IlgA-bbDAj7w) - 2020-10-23
 * ...
 
 更多文章在<img alt="公众号" src="https://img.shields.io/badge/微信公众号-软件解剖学-success?style=flat-square&logo=wechat&logoColor=white" />
